@@ -21,9 +21,9 @@ Website ini terdiri dari 3 halaman:
 ### 🎨 Halaman Projects
 ![Tampilan Projects](project.png)
 ### 📑 Halaman Project Detail
-![Tampilan Project Detail](projectdetaail.png)
+![Tampilan Project Detail](detailnya.png)
 ### 🏆 Halaman Achievements & Contact
-![Tampilan Achievements dan Contact](achivdancontact.png)
+![Tampilan Achievements dan Contact](adadua.png)
 
 ## 🎥 Video Presentasi
 Link YouTube: [https://youtu.be/zbpCYJsKt1w?si=AX7Vkoivmd_M9s_x](https://youtu.be/zbpCYJsKt1w?si=AX7Vkoivmd_M9s_x)
