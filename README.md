@@ -18,8 +18,10 @@ Website ini terdiri dari 3 halaman:
 3. project-detail.html — halaman detail proyek (contoh: La Aeris Pâtisserie)
 
 ## 🖼️ Screenshot Tampilan
-![Homepage Screenshot](assets/img/project1.jpg)
-
+![Homepage Screenshot](assets/img/home.png)
+![Archiv Contact Screenshot](assets/img/archivdancontact.png)
+![Project Screenshot](assets/img/project.png)
+![Detail Project Screenshot](assets/img/projectdetaail.png)
 
 
 ## 🎥 Video Presentasi
