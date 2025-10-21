@@ -3,8 +3,6 @@ Project Mandiri PBP 2025/2026 Ganjil
 Kelas: TI B 2024  
 NIM: 24051204062  
 
----
-
 ## 📋 Deskripsi Singkat
 Website portofolio pribadi yang dibuat sebagai penerapan dari materi:
 - HTML (struktur halaman)
@@ -17,16 +15,18 @@ Website ini terdiri dari 3 halaman:
 2. projects.html — halaman kumpulan proyek
 3. project-detail.html — halaman detail proyek (contoh: La Aeris Pâtisserie)
 
-## 🖼️ Screenshot Tampilan
-![Homepage Screenshot](assets/img/home.png)
-![Archiv Contact Screenshot](assets/img/archivdancontact.png)
-![Project Screenshot](assets/img/project.png)
-![Detail Project Screenshot](assets/img/projectdetaail.png)
-
+## 🖼️ Screenshot Tampilan Website
+### 🏠 Halaman Home
+![Tampilan Home](home.png)
+### 🎨 Halaman Projects
+![Tampilan Projects](project.png)
+### 📑 Halaman Project Detail
+![Tampilan Project Detail](project detaail.png)
+### 🏆 Halaman Achievements & Contact
+![Tampilan Achievements dan Contact](achiv dan contact.png)
 
 ## 🎥 Video Presentasi
 Link YouTube: [https://youtu.be/zbpCYJsKt1w?si=AX7Vkoivmd_M9s_x](https://youtu.be/zbpCYJsKt1w?si=AX7Vkoivmd_M9s_x)
-
 
 ## 💻 Cara Menjalankan
 1. Download repository ini (`Code → Download ZIP`)
